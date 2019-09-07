@@ -5,7 +5,7 @@ import re
 import os
 import time
 
-CONFIG_SERVER = 'redis://:redis7001@47.93.126.172:7001/0'
+CONFIG_SERVER = 'redis://:redis7001@******:7001/0'
 order_dict = {'vpsmokahr{}'.format(i): i for i in range(1, 200)}
 order_dict['vpsbeijing'] = 0
 

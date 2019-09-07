@@ -6,6 +6,8 @@
       <change beforePath="$PROJECT_DIR$/../awesome_login/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../awesome_login/server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../awesome_login/util/preload.py" beforeDir="false" afterPath="$PROJECT_DIR$/../awesome_login/util/preload.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../awesome_login/util/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../awesome_login/util/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhilian_resume_downloader/scripts/zhilian0.py" beforeDir="false" afterPath="$PROJECT_DIR$/../zhilian_resume_downloader/scripts/zhilian0.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +149,7 @@
       <workItem from="1562638205589" duration="18060000" />
       <workItem from="1562724450212" duration="25000" />
       <workItem from="1567826361723" duration="298000" />
-      <workItem from="1567826709955" duration="390000" />
+      <workItem from="1567826709955" duration="1459000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1562662135922</created>
@@ -174,10 +176,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18773000" />
+    <option name="totallyTimeSpent" value="19842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -192,8 +195,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.7276536" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49932975" visible="true" weight="0.7276536" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.15782122" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49932975" visible="true" weight="0.15782122" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.12290503" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
